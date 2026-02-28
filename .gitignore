@@ -1,0 +1,9 @@
+/node modules 
+node_modules/
+/target
+/dist
+/build
+/coverage
+/.vscode
+/.idea
+/.DS_Store
